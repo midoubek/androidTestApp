@@ -4,7 +4,7 @@
             "outputFile": "com.example.androidtestapp.test.app-mergeDebugAndroidTestResources-32:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/e52cd420f367cc7d887299787ab2f210/transformed/core-1.5.0/res/values-v18/values.xml",
+                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/db6e28bec631cdb3b8d7b1589dd2202e/transformed/jetified-core-1.5.0/res/values-v18/values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

@@ -4,7 +4,7 @@
             "outputFile": "com.example.androidtestapp.test.app-mergeDebugAndroidTestResources-32:/values-ms/values-ms.xml",
             "map": [
                 {
-                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/d31dd88940a9b9586833d93935c5d67b/transformed/ui-release/res/values-ms/values-ms.xml",
+                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/8ece4eaca7170899d23ddad8f7e78e56/transformed/jetified-ui-release/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

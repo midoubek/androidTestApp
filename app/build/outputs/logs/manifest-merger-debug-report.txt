@@ -5,53 +5,53 @@ INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManif
 INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.android.material:material:1.11.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4889b90588293319d381c3c57527309a/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/37e9a6ed74bb3a2e3850a92825d07706/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/696429b1d4f8aa8cd077d846ab8ad7c5/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e05165686d0279de7775981d2d33363a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6332fa6472ce7e55f3eb4558301ba785/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material3:material3:1.1.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f430937046a87ce048ae6ae679f3e3eb/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a789daf81da0b80e05f07629f8a76e4a/transformed/jetified-material3-1.1.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a482a3c9bf1d00498e5c058fce6add2e/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c7eca5c7d2371fec03bb681683707091/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/15a8097b8a6858dd5a2a68bf3930e582/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c2021e5d18f88f00a984a6cf97b2c53a/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/05c9a34907ef36a5dd0de97c71e46cf2/transformed/navigation-compose-2.7.6/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/fba93855f130cdd1a733a579722c33d0/transformed/material-1.4.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/28d579457b3ca07f8207d7e4f9d3194e/transformed/material-ripple-1.4.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/709339816721d71c6f658c220aa2ab40/transformed/material-icons-core-1.4.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/81e71f122f21c5a4b6dfc924cd4de8b2/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8f704106288738c8a7500262e3162a84/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c106aeab376ddbe93cf7a89a443446c9/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/280a8f2888b07251219fb0d38ba307fe/transformed/animation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a47a9a38709a7ad54a712d8fba06af29/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/0e093c784969d1f16e81c2c5096e7887/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f562591ff776788eadd7a1b31bcac719/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9229d6d7cfefb89d9dc7f0304be78e6e/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/95fa1f0b9b1fab3436c0e798b85b529b/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/eb99748adeb64abec7f791ed07526656/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f78b281f00f398f3dac6fe99c7d8d4cd/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/39286647c0d7220a18ad5765ad506486/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/658822170958f2905621f1aae3922d27/transformed/jetified-navigation-compose-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7543ac61c2053be54bc6d0a2f82f5477/transformed/jetified-material-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/52e90e9f609873b7418b69640ede3af8/transformed/jetified-material-ripple-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/42da9ef2107870dbef53d2834f115fb3/transformed/jetified-material-icons-core-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a6e1d9e964485e0c22a3a4e8b03ceac0/transformed/jetified-foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/5feab1da1877f398ef422ce7051aeb0e/transformed/jetified-foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/676b1010b6ce9d62c73240c06698ef2c/transformed/jetified-animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9630f673e6d455c4ae86f12a9abdd00e/transformed/jetified-animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/923b63ef10a1ec3e2ae5919598f12924/transformed/jetified-ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/684f082c2a178b4fae8169f5ee9f4042/transformed/jetified-ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a4e3049d0e9f7a200fb3b7e4338a5426/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/10c31e3fda8833d52bb5e3f7fbd4a9b5/transformed/jetified-ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b613dcab308384e09506ca2077822f59/transformed/jetified-ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/dcc94084a5468d2ec3ef6f0ab849a325/transformed/jetified-ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a5094960f42c92e51bef18eba39b8918/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6dacfe539763c76441c9024438a5c33c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/873633d26402d408b1b84100ef6102f6/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/896af00d33cc037530a9512717bc585e/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b01623f8eb9d2c65e84c7e2a617f3f74/transformed/jetified-activity-1.8.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1e7745145aaa6ad7663d4f22254637b3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/66e9737d192a6ab003c0d019aa94d57e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2d1be0570695e2a45a6d4dca6c587b04/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f23cff6ec5c457ed887c3cf004845bcc/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/86e07834144473900890174efc0376bf/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7e3f057df0ef9b05b46a46b1df076ce0/transformed/jetified-emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/094d1f501de79528ced0256af5eb542a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/88c476bdf5d8277f58dcc344b2d6400c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/aa4230a5ce933deef54b2f34249794d8/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/34d20d68c0f7c2bcbf7722183562c44b/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7c7dd6276f6a97a7aef652d2767b2d84/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8137dc8be7da150d23bc3f26b29cedc4/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/94aae546b805c3f755bd9848d67e36ed/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/eda33b81c5e96f28e3165690da5b8dd5/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4495f0111904092edd5e3213c85f23b4/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6b61562eab331f8428efb86b07d1769c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/3f6b18b38a328f527d527910ad9d4924/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f9936faba8e721a62a77abd5b8051fd1/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/00ee4276c163133d3d01f3c59b8345b4/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d31dd88940a9b9586833d93935c5d67b/transformed/ui-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.activity:activity-compose:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c46d51fd4f0dc3c3af412eb344393bae/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ff90c4909c7e145c2127a29bc7ecdf36/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d02332f60cfcd39f91789f3afc3abaa2/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f04b3def68ad4e07bbaec24caabd1e7b/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/10ae5ad7ac31ce95714d01faa232929f/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8ece4eaca7170899d23ddad8f7e78e56/transformed/jetified-ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/81bfdfb62df87408099be266f552761c/transformed/jetified-activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e3907e569d3f3cafe01e7d7bdd502e61/transformed/jetified-activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d3005c9266c3991c586c1018c1ff8b12/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99106207c8e33e869fa55c9f65d6c46b/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/89a656c15758b30731feebf4fa93a5f9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/611686a221460b7e6de18079fad27901/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.2.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/3fd2738a9c9f312dbee7078f8dde9256/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -60,21 +60,21 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/milandoubek/.g
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e9127fecf839a9509ce2b585fe46cd4f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f3665c325ab7a2d214e3e4c13f7bac55/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b6e33c6db89112332ef20e1aa51948be/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b0e037195dd5e2fa3257eef719d2e477/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c9f13bf5434ffb530e759d9aa73ff2d8/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/54c064b8d2e6f37e62ffb2ea04cb5b35/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6a14e293878bd774c0d3f42c754d0688/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/70a0d21b34f0cbf59000d7db963d6cd5/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1443141f8aeed0b3d7f978dc2e456746/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1ae5ebb4c2ef489aba96e93af058cf06/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ef201f5dd8ae8528cc87507a783561a3/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/905c0e4058343e241bea2735076e7dbc/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/34d4301215ad552389eb350c567a26f7/transformed/jetified-runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6127e8dcd909f88cfa038aea050a3b80/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/0bb2cbe72faff0c322e7fa5a254f82e7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c223a9a9e253f6e8690f38891cf747b7/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/759c91df50f6a836a82b3b26eb13bb37/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4982a092a810d55bc164713d6a9018bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/555439041c731b8b60bd0d7f2d22674b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e1bca8818149ffdfffd68ed3e08f3166/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/54ecd46ea32c7a95729e2108370d7792/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6a100df9defc2d9383aed36c44f51755/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/fb1dd713c27baafcd06a39705abea7aa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/680d75a076af03b4d3fe3c02b1139c27/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -93,20 +93,20 @@ MERGED from [com.google.android.material:material:1.11.0] /Users/milandoubek/.gr
 MERGED from [com.google.android.material:material:1.11.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4889b90588293319d381c3c57527309a/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e05165686d0279de7775981d2d33363a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e05165686d0279de7775981d2d33363a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4982a092a810d55bc164713d6a9018bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4982a092a810d55bc164713d6a9018bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
@@ -147,14 +147,14 @@ INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManif
 INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.11.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4889b90588293319d381c3c57527309a/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.11.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4889b90588293319d381c3c57527309a/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/37e9a6ed74bb3a2e3850a92825d07706/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/37e9a6ed74bb3a2e3850a92825d07706/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/696429b1d4f8aa8cd077d846ab8ad7c5/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/696429b1d4f8aa8cd077d846ab8ad7c5/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e05165686d0279de7775981d2d33363a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e05165686d0279de7775981d2d33363a/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6332fa6472ce7e55f3eb4558301ba785/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6332fa6472ce7e55f3eb4558301ba785/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.1.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f430937046a87ce048ae6ae679f3e3eb/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.1.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f430937046a87ce048ae6ae679f3e3eb/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a789daf81da0b80e05f07629f8a76e4a/transformed/jetified-material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a789daf81da0b80e05f07629f8a76e4a/transformed/jetified-material3-1.1.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a482a3c9bf1d00498e5c058fce6add2e/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a482a3c9bf1d00498e5c058fce6add2e/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c7eca5c7d2371fec03bb681683707091/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
@@ -163,84 +163,84 @@ MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/milandoubek
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/15a8097b8a6858dd5a2a68bf3930e582/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c2021e5d18f88f00a984a6cf97b2c53a/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c2021e5d18f88f00a984a6cf97b2c53a/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/05c9a34907ef36a5dd0de97c71e46cf2/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/05c9a34907ef36a5dd0de97c71e46cf2/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/fba93855f130cdd1a733a579722c33d0/transformed/material-1.4.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/fba93855f130cdd1a733a579722c33d0/transformed/material-1.4.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/28d579457b3ca07f8207d7e4f9d3194e/transformed/material-ripple-1.4.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/28d579457b3ca07f8207d7e4f9d3194e/transformed/material-ripple-1.4.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/709339816721d71c6f658c220aa2ab40/transformed/material-icons-core-1.4.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/709339816721d71c6f658c220aa2ab40/transformed/material-icons-core-1.4.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/81e71f122f21c5a4b6dfc924cd4de8b2/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/81e71f122f21c5a4b6dfc924cd4de8b2/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8f704106288738c8a7500262e3162a84/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8f704106288738c8a7500262e3162a84/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c106aeab376ddbe93cf7a89a443446c9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c106aeab376ddbe93cf7a89a443446c9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/280a8f2888b07251219fb0d38ba307fe/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/280a8f2888b07251219fb0d38ba307fe/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a47a9a38709a7ad54a712d8fba06af29/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a47a9a38709a7ad54a712d8fba06af29/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/0e093c784969d1f16e81c2c5096e7887/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/0e093c784969d1f16e81c2c5096e7887/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f562591ff776788eadd7a1b31bcac719/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f562591ff776788eadd7a1b31bcac719/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9229d6d7cfefb89d9dc7f0304be78e6e/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9229d6d7cfefb89d9dc7f0304be78e6e/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/95fa1f0b9b1fab3436c0e798b85b529b/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/95fa1f0b9b1fab3436c0e798b85b529b/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/eb99748adeb64abec7f791ed07526656/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/eb99748adeb64abec7f791ed07526656/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f78b281f00f398f3dac6fe99c7d8d4cd/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f78b281f00f398f3dac6fe99c7d8d4cd/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/39286647c0d7220a18ad5765ad506486/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/39286647c0d7220a18ad5765ad506486/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/658822170958f2905621f1aae3922d27/transformed/jetified-navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/658822170958f2905621f1aae3922d27/transformed/jetified-navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7543ac61c2053be54bc6d0a2f82f5477/transformed/jetified-material-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7543ac61c2053be54bc6d0a2f82f5477/transformed/jetified-material-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/52e90e9f609873b7418b69640ede3af8/transformed/jetified-material-ripple-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/52e90e9f609873b7418b69640ede3af8/transformed/jetified-material-ripple-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/42da9ef2107870dbef53d2834f115fb3/transformed/jetified-material-icons-core-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/42da9ef2107870dbef53d2834f115fb3/transformed/jetified-material-icons-core-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a6e1d9e964485e0c22a3a4e8b03ceac0/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a6e1d9e964485e0c22a3a4e8b03ceac0/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/5feab1da1877f398ef422ce7051aeb0e/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/5feab1da1877f398ef422ce7051aeb0e/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/676b1010b6ce9d62c73240c06698ef2c/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/676b1010b6ce9d62c73240c06698ef2c/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9630f673e6d455c4ae86f12a9abdd00e/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9630f673e6d455c4ae86f12a9abdd00e/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/923b63ef10a1ec3e2ae5919598f12924/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/923b63ef10a1ec3e2ae5919598f12924/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/684f082c2a178b4fae8169f5ee9f4042/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/684f082c2a178b4fae8169f5ee9f4042/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a4e3049d0e9f7a200fb3b7e4338a5426/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a4e3049d0e9f7a200fb3b7e4338a5426/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/10c31e3fda8833d52bb5e3f7fbd4a9b5/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/10c31e3fda8833d52bb5e3f7fbd4a9b5/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b613dcab308384e09506ca2077822f59/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b613dcab308384e09506ca2077822f59/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/dcc94084a5468d2ec3ef6f0ab849a325/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/dcc94084a5468d2ec3ef6f0ab849a325/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a5094960f42c92e51bef18eba39b8918/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a5094960f42c92e51bef18eba39b8918/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6dacfe539763c76441c9024438a5c33c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6dacfe539763c76441c9024438a5c33c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/873633d26402d408b1b84100ef6102f6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/milandoubek/.gradle/caches/8.10.2/transforms/873633d26402d408b1b84100ef6102f6/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/896af00d33cc037530a9512717bc585e/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/896af00d33cc037530a9512717bc585e/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b01623f8eb9d2c65e84c7e2a617f3f74/transformed/jetified-activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b01623f8eb9d2c65e84c7e2a617f3f74/transformed/jetified-activity-1.8.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1e7745145aaa6ad7663d4f22254637b3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1e7745145aaa6ad7663d4f22254637b3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/66e9737d192a6ab003c0d019aa94d57e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/66e9737d192a6ab003c0d019aa94d57e/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2d1be0570695e2a45a6d4dca6c587b04/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2d1be0570695e2a45a6d4dca6c587b04/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f23cff6ec5c457ed887c3cf004845bcc/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f23cff6ec5c457ed887c3cf004845bcc/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/86e07834144473900890174efc0376bf/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/86e07834144473900890174efc0376bf/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7e3f057df0ef9b05b46a46b1df076ce0/transformed/jetified-emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7e3f057df0ef9b05b46a46b1df076ce0/transformed/jetified-emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/094d1f501de79528ced0256af5eb542a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/094d1f501de79528ced0256af5eb542a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/88c476bdf5d8277f58dcc344b2d6400c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/88c476bdf5d8277f58dcc344b2d6400c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/aa4230a5ce933deef54b2f34249794d8/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/aa4230a5ce933deef54b2f34249794d8/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/34d20d68c0f7c2bcbf7722183562c44b/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/34d20d68c0f7c2bcbf7722183562c44b/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7c7dd6276f6a97a7aef652d2767b2d84/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/7c7dd6276f6a97a7aef652d2767b2d84/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8137dc8be7da150d23bc3f26b29cedc4/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8137dc8be7da150d23bc3f26b29cedc4/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/94aae546b805c3f755bd9848d67e36ed/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/94aae546b805c3f755bd9848d67e36ed/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/eda33b81c5e96f28e3165690da5b8dd5/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/eda33b81c5e96f28e3165690da5b8dd5/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4495f0111904092edd5e3213c85f23b4/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4495f0111904092edd5e3213c85f23b4/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6b61562eab331f8428efb86b07d1769c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6b61562eab331f8428efb86b07d1769c/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/3f6b18b38a328f527d527910ad9d4924/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/3f6b18b38a328f527d527910ad9d4924/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f9936faba8e721a62a77abd5b8051fd1/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f9936faba8e721a62a77abd5b8051fd1/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/00ee4276c163133d3d01f3c59b8345b4/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/00ee4276c163133d3d01f3c59b8345b4/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d31dd88940a9b9586833d93935c5d67b/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d31dd88940a9b9586833d93935c5d67b/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c46d51fd4f0dc3c3af412eb344393bae/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c46d51fd4f0dc3c3af412eb344393bae/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ff90c4909c7e145c2127a29bc7ecdf36/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ff90c4909c7e145c2127a29bc7ecdf36/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d02332f60cfcd39f91789f3afc3abaa2/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d02332f60cfcd39f91789f3afc3abaa2/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f04b3def68ad4e07bbaec24caabd1e7b/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f04b3def68ad4e07bbaec24caabd1e7b/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/10ae5ad7ac31ce95714d01faa232929f/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/10ae5ad7ac31ce95714d01faa232929f/transformed/jetified-lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8ece4eaca7170899d23ddad8f7e78e56/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8ece4eaca7170899d23ddad8f7e78e56/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/81bfdfb62df87408099be266f552761c/transformed/jetified-activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/81bfdfb62df87408099be266f552761c/transformed/jetified-activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e3907e569d3f3cafe01e7d7bdd502e61/transformed/jetified-activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e3907e569d3f3cafe01e7d7bdd502e61/transformed/jetified-activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d3005c9266c3991c586c1018c1ff8b12/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d3005c9266c3991c586c1018c1ff8b12/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99106207c8e33e869fa55c9f65d6c46b/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99106207c8e33e869fa55c9f65d6c46b/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/89a656c15758b30731feebf4fa93a5f9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/89a656c15758b30731feebf4fa93a5f9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/611686a221460b7e6de18079fad27901/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -257,20 +257,20 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/milandoubek/.gradl
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f3665c325ab7a2d214e3e4c13f7bac55/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b6e33c6db89112332ef20e1aa51948be/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b6e33c6db89112332ef20e1aa51948be/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b0e037195dd5e2fa3257eef719d2e477/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/b0e037195dd5e2fa3257eef719d2e477/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c9f13bf5434ffb530e759d9aa73ff2d8/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c9f13bf5434ffb530e759d9aa73ff2d8/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/54c064b8d2e6f37e62ffb2ea04cb5b35/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/54c064b8d2e6f37e62ffb2ea04cb5b35/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6a14e293878bd774c0d3f42c754d0688/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6a14e293878bd774c0d3f42c754d0688/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/70a0d21b34f0cbf59000d7db963d6cd5/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/70a0d21b34f0cbf59000d7db963d6cd5/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1443141f8aeed0b3d7f978dc2e456746/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1443141f8aeed0b3d7f978dc2e456746/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1ae5ebb4c2ef489aba96e93af058cf06/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/1ae5ebb4c2ef489aba96e93af058cf06/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ef201f5dd8ae8528cc87507a783561a3/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ef201f5dd8ae8528cc87507a783561a3/transformed/jetified-lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/905c0e4058343e241bea2735076e7dbc/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/905c0e4058343e241bea2735076e7dbc/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/34d4301215ad552389eb350c567a26f7/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/34d4301215ad552389eb350c567a26f7/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6127e8dcd909f88cfa038aea050a3b80/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6127e8dcd909f88cfa038aea050a3b80/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/0bb2cbe72faff0c322e7fa5a254f82e7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/0bb2cbe72faff0c322e7fa5a254f82e7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/c223a9a9e253f6e8690f38891cf747b7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
@@ -279,14 +279,14 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/milandoubek/.gradl
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/759c91df50f6a836a82b3b26eb13bb37/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4982a092a810d55bc164713d6a9018bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/4982a092a810d55bc164713d6a9018bb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/555439041c731b8b60bd0d7f2d22674b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/555439041c731b8b60bd0d7f2d22674b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e1bca8818149ffdfffd68ed3e08f3166/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/e1bca8818149ffdfffd68ed3e08f3166/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/54ecd46ea32c7a95729e2108370d7792/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/54ecd46ea32c7a95729e2108370d7792/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6a100df9defc2d9383aed36c44f51755/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6a100df9defc2d9383aed36c44f51755/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/fb1dd713c27baafcd06a39705abea7aa/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
@@ -298,39 +298,39 @@ MERGED from [androidx.print:print:1.0.0] /Users/milandoubek/.gradle/caches/8.10.
 	android:minSdkVersion
 		INJECTED from /Users/milandoubek/GitHub/androidTestApp/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f47f82aa54b9a6dc69f75c76bfa60713/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/milandoubek/.gradle/caches/8.10.2/transforms/2499d671296575fe8a211625781ded16/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/ada1f5ca38ab137102d7183374f87877/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/a1f140a35206032595bbebf40d75dcd0/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/f1ab54f22069ecdc4df4ebe1b6b135bf/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6c5df6565401090f866eebd63b5b71c6/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/d1ec00b77b606d68ca68a7fde5283a81/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/milandoubek/.gradle/caches/8.10.2/transforms/9263e8e1f58863f9cebc104de5421a10/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -352,44 +352,44 @@ ADDED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/
 	android:name
 		ADDED from [androidx.core:core:1.12.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/8c002013633b7190a16d27a98b6c6b46/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/milandoubek/.gradle/caches/8.10.2/transforms/6d274287656d541635866b10b59517c8/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
