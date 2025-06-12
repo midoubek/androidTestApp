@@ -1,1 +1,0 @@
-/Users/milandoubek/GitHub/androidTestApp/app/src/main/java/com/example/androidtestapp/MainActivity.kt
