@@ -4,7 +4,7 @@
             "outputFile": "com.example.androidtestapp.test.app-mergeDebugAndroidTestResources-32:/values-hu/values-hu.xml",
             "map": [
                 {
-                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/8ece4eaca7170899d23ddad8f7e78e56/transformed/jetified-ui-release/res/values-hu/values-hu.xml",
+                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/dc20cb8c30e1bc9cfa214c89aa39d7f4/transformed/jetified-ui-release/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/99209f59ab55a020254b668dacd4d720/transformed/core-1.12.0/res/values-hu/values-hu.xml",
+                    "source": "/Users/milandoubek/.gradle/caches/8.10.2/transforms/8218273e3d36681237ba4aa014847d6b/transformed/core-1.12.0/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
