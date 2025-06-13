@@ -1,4 +1,3 @@
-# androidTestApp
 # 📱 Android Test App
 
 **Testovací Android aplikace pro experimentování s analytickými nástroji**
