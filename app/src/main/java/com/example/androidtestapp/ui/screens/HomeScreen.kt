@@ -15,18 +15,27 @@ fun HomeScreen(navController: NavController) {
             .padding(16.dp),
         verticalArrangement = Arrangement.Center
     ) {
-        Button(
-            onClick = { navController.navigate("dashboard") },
+        Text(
+            text = "Welcome to Home",
+            style = MaterialTheme.typography.headlineMedium,
+            modifier = Modifier.padding(bottom = 16.dp)
+        )
+        Card(
             modifier = Modifier.fillMaxWidth()
         ) {
-            Text("Dashboard")
-        }
-        Spacer(modifier = Modifier.height(16.dp))
-        Button(
-            onClick = { navController.navigate("settings") },
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Text("Settings")
+            Column(
+                modifier = Modifier.padding(16.dp)
+            ) {
+                Text(
+                    text = "Home Dashboard",
+                    style = MaterialTheme.typography.titleMedium
+                )
+                Spacer(modifier = Modifier.height(8.dp))
+                Text(
+                    text = "Use the bottom navigation to explore Dashboard and Settings sections.",
+                    style = MaterialTheme.typography.bodyMedium
+                )
+            }
         }
     }
 }
