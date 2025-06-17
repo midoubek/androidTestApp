@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">AndroidTestApp</string>
-    <style name="Theme.AndroidTestApp" parent="Theme.Material3.DayNight">
-        <item name="colorPrimary">@color/purple_500</item>
-    </style>
-</resources>
